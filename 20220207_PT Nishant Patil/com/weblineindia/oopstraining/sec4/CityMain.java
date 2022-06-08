@@ -8,7 +8,7 @@ public class CityMain {
         StateDTO mahaStateDTO = new StateDTO();
 		mahaStateDTO.setStateName("Maharashtra");
         mahaStateDTO.setStateCapital("Mumbai");
-        mahaStateDTO.setStateMetroCities("Pune,Nagpur");
+        mahaStateDTO.setStateMetroCities("Pune,Nagpur,Nashik");
         mahaStateDTO.setStateRegion("Western Costal-State");
         mahaStateDTO.setStatePopulation("11Cr");
         mahaStateDTO.setStateMalePopulation("5.5Cr");
@@ -23,7 +23,7 @@ public class CityMain {
         mahaStateDTO.setStateGovernorNmae("Bhagat Shingh Koshyari");
         mahaStateDTO.setStateFamousFood("xyz");
         mahaStateDTO.setStateFamousPerson("Still Counting");
-        mahaStateDTO.setStateFamousDestination("Lonavala");
+        mahaStateDTO.setStateFamousDestination("Lonavala, many more");
         mahaStateDTO.setStateFoundationDay("1 May 1960");
 
 
@@ -64,7 +64,7 @@ public class CityMain {
         CityDTO cityDTO = new CityDTO();
 		cityDTO.setCityName("Shirpur");
 		cityDTO.setCityState("Mahrashtra");
-		cityDTO.setCityPopulation("15840");
+		cityDTO.setCityPopulation("1584");
 		cityDTO.setCityMalePopulation("5800");
 		cityDTO.setCityFemalePopulation("5100");
 		cityDTO.setCityChildPopulation("1100");
@@ -73,7 +73,7 @@ public class CityMain {
 		cityDTO.setCityArea("5904sq/km");
 		cityDTO.setCityDistrict("Dhule");
 		cityDTO.setCityFamousDestination("Recreation Garden");
-		cityDTO.setCityFamousFood("Wada Pav");
+		cityDTO.setCityFamousFood("Wada Pav, Pav Bhaji");
 		cityDTO.setCityTemple("Balaji Mandir");
 		cityDTO.setCityMosque("cityMosque");
 		cityDTO.setCityWaterBody("Arunawati river");
