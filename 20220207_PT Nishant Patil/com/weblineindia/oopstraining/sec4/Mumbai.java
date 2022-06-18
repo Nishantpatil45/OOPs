@@ -30,8 +30,8 @@ public class Mumbai implements City {
 
     @Override
     public void getCityStateInto(State state, StateDTO stateDTO) {
-        System.out.println("State Information: " + state.getStateInfo(stateDTO));
-        System.out.println("State Famous For: " + state.getStateFamousFor(stateDTO));
+        // System.out.println("State Information: " + state.getStateInfo(stateDTO));
+        // System.out.println("State Famous For: " + state.getStateFamousFor(stateDTO));
         
 
         

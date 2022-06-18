@@ -21,7 +21,7 @@ public class City {
 		System.out.println("City Famous Food is " + cityDTO.getCityFamousFood());
 		System.out.println("City Temple  " + cityDTO.getCityTemple());
 		System.out.println("City Mosque " + cityDTO.getCityMosque());
-		System.out.println("City River Name is " + cityDTO.getCityWaterBody());
+		System.out.println("City Rivers Name is " + cityDTO.getCityWaterBody());
 		System.out.println("City Famous Person is  " + cityDTO.getCityFamousPerson());
 		System.out.println("City Famous Destination is " + cityDTO.getCityFamousDestination());
 		System.out.println("City Famous Area is " + cityDTO.getCityFamousArea());
@@ -42,7 +42,7 @@ public class City {
 		sc.setCityFemaleChildPopulation("520");
 		sc.setCityArea("5904sq/km");
 		sc.setCityDistrict("Dhule");
-		sc.setCityFamousFor("");
+		sc.setCityFamousFor("Uniqueness");
 		sc.setCityFamousDestination("Recreation Garden");
 		sc.setCityFamousFood("Wada Pav");
 		sc.setCityTemple("Balaji Mandir");
@@ -52,7 +52,7 @@ public class City {
 		sc.setCityFamousArea("PQR");
 		sc.setCityFamousRestrorant("FZ Cafe");
 		sc.setCitySchools("RCPIT");
-		sc.setCityHospitals("Indira Hospital");
+		sc.setCityHospitals("Indira Gandhi Hospital");
 		sc.setCityMovieTheater("ABC Cinema");
 		sc.setCityMall("XYZ Mall");
 		sc.setCityMayorName("Mr.PQR");

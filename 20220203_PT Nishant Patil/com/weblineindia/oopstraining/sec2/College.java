@@ -31,7 +31,7 @@ public class College{
 		sc.setCollegeEtcLabs("5");
 		sc.setCollegeMechLabs("5");
 		sc.setCollegeFoundedIn("1999");
-		sc.setCollegeUnivercity("DBATU");
+		sc.setCollegeUnivercity("DBATU,Lonere");
 
 
 

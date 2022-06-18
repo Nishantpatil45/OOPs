@@ -9,7 +9,7 @@ public class Company{
 		sc.setCompanyCity("Ahmadabad");
 		sc.setCompanyState("Gujrat");
 		sc.setCompanyCountry("India");
-		sc.setCompanyAddress("Ahmadabad, Gujrat");
+		sc.setCompanyAddress("Ahmadabad, Gujrat,India");
 		sc.setCompanyDept("20");
 		sc.setCompanyEmployee("150");
 		sc.setCompanyMaleEmployee("70");

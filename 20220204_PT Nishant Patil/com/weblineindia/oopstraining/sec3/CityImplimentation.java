@@ -11,7 +11,7 @@ public class CityImplimentation {
 		sc.setCityFemalePopulation("5100");
 		sc.setCityChildPopulation("1100");
 		sc.setCityMaleChildPopulation("580");
-		sc.setCityFemaleChildPopulation("520");
+		sc.setCityFemaleChildPopulation("510");
 		sc.setCityArea("5904sq/km");
 		sc.setCityDistrict("Dhule");
 		sc.setCityFamousDestination("Recreation Garden");
@@ -22,8 +22,8 @@ public class CityImplimentation {
 		sc.setCityFamousPerson("ABC");
 		sc.setCityFamousArea("PQR");
 		sc.setCityFamousRestrorant("FZ Cafe");
-		sc.setCitySchools("RCPIT");
-		sc.setCityHospitals("Indira Hospital");
+		sc.setCitySchools("RCPIT,Shirpur");
+		sc.setCityHospitals("Indira Gandhi Hospital");
 		sc.setCityMovieTheater("ABC Cinema");
 		sc.setCityMall("XYZ Mall");
 		sc.setCityMayorName("Mr.PQR");

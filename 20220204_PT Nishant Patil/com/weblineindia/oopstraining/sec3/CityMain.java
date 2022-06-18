@@ -8,7 +8,7 @@ public class CityMain extends City{
     	System.out.println("City Famous Food is "+ cityDTO.getCityFamousFood());
     	System.out.println("City Temple  "+ cityDTO.getCityTemple());
     	System.out.println("City Mosque "+ cityDTO.getCityMosque());
-    	System.out.println("City River Name is "+ cityDTO.getCityWaterBody());
+    	System.out.println("City Rivers Name is "+ cityDTO.getCityWaterBody());
     	System.out.println("City Famous Person is  "+ cityDTO.getCityFamousPerson());
     	System.out.println("City Famous Destination is "+ cityDTO.getCityFamousDestination());
     	System.out.println("City Famous Area is "+ cityDTO.getCityFamousArea());
